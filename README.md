@@ -24,3 +24,5 @@ Courses I have taken
 * "Jira Tool" - SDET-QA Automation Techie
 * "JavaScript algorightms and data structures" - freecodecamp.org
 * "Kurs MYSQL" - Mirosław Zelent
+* "Relational database certification" - freecodecamp.org - in progress
+* The Odin Project - in progress
