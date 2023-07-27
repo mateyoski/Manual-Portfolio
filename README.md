@@ -1,4 +1,3 @@
-Introduction
 Hey, my name is Maciek. I graduated from AGH UST as master in the field of power engineering. 
 My professional work related to this area consisted of designing appliances such as boilers or heat exchangers,
 including the design process, technical documentation and drawings. It included close communication with colleagues,
